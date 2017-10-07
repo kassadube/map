@@ -16,3 +16,7 @@ change from Feature2
 ---
 set tag1
 ---
+
+----
+tag2
+----
