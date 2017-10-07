@@ -13,3 +13,6 @@ change from myFeature
 change from Feature2
 ---
 
+---
+set tag1
+---
